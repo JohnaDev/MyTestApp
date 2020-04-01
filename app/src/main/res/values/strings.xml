@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="start_billing">Start Billing</string>
+    <string name="empty_product">Products are empty</string>
+</resources>
