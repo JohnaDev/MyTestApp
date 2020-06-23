@@ -23,4 +23,10 @@
         android:layout_height="wrap_content"
         android:text="@string/start_billing" />
 
+    <Button
+        android:id="@+id/btnShowNotification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show notification" />
+
 </LinearLayout>
